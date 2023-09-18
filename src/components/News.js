@@ -72,7 +72,7 @@ export class News extends Component {
         return (
 
             <div className='container my-3'>
-                <h1 className="text-center">
+                <h1 className="text-center" style={{margin: '35px 0px'}}>
                     <h2>NewsMoneky - Top Headlines</h2>
                     {this.state.loading && <Spinner />}
                 </h1>

@@ -17,13 +17,12 @@ export class Navbar extends Component {
                             <li className="nav-item ">
                                 <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
                             </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">Link</a>  </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">business</a> </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">entertainment</a> </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">generalhealth</a> </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">science</a> </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">sports</a> </li>
-                            <li className="nav-item"> <a className="nav-link" href="#">technology</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="business">Business</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="entertainment">Entertainment</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="generalhealth">Generalhealth</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="science">science</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="sports">sports</a> </li>
+                            <li className="nav-item"> <a className="nav-link" href="technology">Technology</a> </li>
                             
                         </ul>
                         
